@@ -209,7 +209,6 @@ Thus, the program was implemented and executed successfully, and the required ou
     }
 ```
 # Output:
-
 <img width="412" height="630" alt="image" src="https://github.com/user-attachments/assets/93724fa1-a837-4d48-8de6-334e5dbd1ed9" />
 
 # Result: 
@@ -279,7 +278,6 @@ Thus, the program was implemented and executed successfully, and the required ou
     }
 ```
 # Output:
-
 <img width="472" height="311" alt="image" src="https://github.com/user-attachments/assets/1fc290c2-4c00-47a9-9856-9933b4ca5158" />
 
 # Result: 
